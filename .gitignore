@@ -1,0 +1,13 @@
+.DS_Store
+._*
+__pycache__/
+*.pyc
+*.log
+*.ips
+opencore-*.txt
+SysReport/
+config-private.plist
+config.plist.backup*
+EFI-backup*/
+*.dmg
+*.pkg
